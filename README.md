@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Firas</h1>
 <h3 align="center">A passionate Developer, and Open Source Contributor!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=befir&label=Profile%20views&color=7f49c1&style=flat" alt="bedfir" /> </p>
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=bedfir" alt="bedfir" /></a> </p>
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=bedfir&row=2&column=4" alt="bedfir" /></a> </p>
+
 
 - 🔭 I am currently working with Symfony in the automotive industry.
 
